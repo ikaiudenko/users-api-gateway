@@ -1,0 +1,1 @@
+export const WELCOME_EMAIL_SUBJECT = 'Your account created successfully';
